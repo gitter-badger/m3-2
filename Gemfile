@@ -94,4 +94,4 @@ group :test do
 end
 
 # This line is require until a new version with irb#79(https://github.com/ruby/irb/pull/79) is release
-gem 'irb', '1.2.1'
+gem 'irb', '1.2.4'
